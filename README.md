@@ -28,6 +28,9 @@ Though flow tips:
  - [palindrome_number_two_pointers](./palindrome_number_two_pointers) — Palindrome Number (Two Pointers)
    - `README.md`: overview and example
    - `solution.py`: implementation with problem description in comments
+ - [container_with_most_water_two_pointers](./container_with_most_water_two_pointers) — Container With Most Water (Two Pointers)
+   - `README.md`: overview and example
+   - `solution.py`: implementation with problem description in comments
 ### Quick Run
 ```bash
 python3 two_sum_hashtable/solution.py
@@ -37,4 +40,5 @@ python3 median_two_sorted_array_binary_search/solution.py
 python3 longest_substring_without_repeating_characters/solution.py
 python3 three_sum_two_pointers/solution.py
 python3 palindrome_number_two_pointers/solution.py
+python3 container_with_most_water_two_pointers/solution.py
 ```
