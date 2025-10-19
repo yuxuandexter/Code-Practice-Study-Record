@@ -40,6 +40,9 @@ Though flow tips:
  - [merge_sorted_array](./merge_sorted_array) — Merge Sorted Array (Two Pointers)
    - `README.md`: overview and example
    - `solution.py`: implementation with problem description in comments
+ - [longest_common_prefix](./longest_common_prefix) — Longest Common Prefix (String)
+   - `README.md`: overview and example
+   - `solution.py`: implementation with problem description in comments
 ### Quick Run
 ```bash
 python3 two_sum_hashtable/solution.py
@@ -53,4 +56,5 @@ python3 container_with_most_water_two_pointers/solution.py
 python3 longest_palindromic_substring/solution.py
 python3 merge_strings_alternately/solution.py
 python3 merge_sorted_array/solution.py
+python3 longest_common_prefix/solution.py
 ```
