@@ -31,6 +31,15 @@ Though flow tips:
  - [container_with_most_water_two_pointers](./container_with_most_water_two_pointers) — Container With Most Water (Two Pointers)
    - `README.md`: overview and example
    - `solution.py`: implementation with problem description in comments
+ - [longest_palindromic_substring](./longest_palindromic_substring) — Longest Palindromic Substring (Expand Around Center)
+   - `README.md`: overview and example
+   - `solution.py`: implementation with problem description in comments
+ - [merge_strings_alternately](./merge_strings_alternately) — Merge Strings Alternately (Two Pointers)
+   - `README.md`: overview and example
+   - `solution.py`: implementation with problem description in comments
+ - [merge_sorted_array](./merge_sorted_array) — Merge Sorted Array (Two Pointers)
+   - `README.md`: overview and example
+   - `solution.py`: implementation with problem description in comments
 ### Quick Run
 ```bash
 python3 two_sum_hashtable/solution.py
@@ -41,4 +50,7 @@ python3 longest_substring_without_repeating_characters/solution.py
 python3 three_sum_two_pointers/solution.py
 python3 palindrome_number_two_pointers/solution.py
 python3 container_with_most_water_two_pointers/solution.py
+python3 longest_palindromic_substring/solution.py
+python3 merge_strings_alternately/solution.py
+python3 merge_sorted_array/solution.py
 ```
